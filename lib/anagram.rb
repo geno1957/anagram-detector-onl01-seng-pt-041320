@@ -1,2 +1,3 @@
 class Anagram
-  attr_accessor :word_to_
+  attr_accessor :word_to_analyze 
+  
